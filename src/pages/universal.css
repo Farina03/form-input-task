@@ -10,6 +10,12 @@
 .subtitle {
     color: gray;
 }
+.graphics-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
 hr {
     height: 1px;
     width: 100px;
@@ -19,5 +25,24 @@ hr {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 30px 0px;
+    padding-top: 30px;
+    padding-bottom: 5px;
+}
+.phase-name-div {
+    margin-top: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    column-gap: 100px;
+}
+.phase {
+    padding: 0;
+    margin-top: 0;
+    width: 50px;
+    height: auto;
+    font-size: 12px;
+    color: gray;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
