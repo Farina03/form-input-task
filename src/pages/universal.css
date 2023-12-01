@@ -1,0 +1,23 @@
+.outer-div {
+    display: flex;
+    flex-direction: column;
+    width: 700px;
+    align-items: center;
+    /* justify-content: center; */
+    background-color: white;
+    min-height: 100vh;
+}
+.subtitle {
+    color: gray;
+}
+hr {
+    height: 1px;
+    width: 100px;
+    background-color: gray;
+}
+.circle-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 0px;
+}
