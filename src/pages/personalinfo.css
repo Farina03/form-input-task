@@ -1,0 +1,15 @@
+.circle1 {
+    background-color: #24a0ed;
+    color: white;
+    border: 1px solid #24a0ed;
+}
+.circle2 {
+    border: 2px solid #24a0ed;
+}
+.circle3 {
+    background-color: gray;
+    color: white;
+}
+.hr1 {
+    border: 1px solid #24a0ed;
+}
